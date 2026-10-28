@@ -1,4 +1,4 @@
-# Afric Dave Construction — plumbing website demo
+# Cypress Plumbing Services — plumbing website demo
 
 Open `index.html` directly in your browser, or use your editor's Live Server extension. There are no dependencies or build steps.
 
@@ -11,7 +11,7 @@ All site files and downloaded stock photos are in this folder. The site uses Goo
 - Hero and service photography: `assets/`.
 - Mobile navigation and form behavior: `script.js`.
 
-Business details supplied by the user: Afric Dave Construction; 054 392 7362 (+233 54 392 7362); open 24 hours; North Legon street Madina, Zongo junction, Accra; serving East Legon and nearby areas. The supplied Google rating is 5.0 from 42 reviews, not a live feed. No individual testimonials, email address, licence or years of experience were supplied. All 20 listed services appear in the expandable service list and quote selector. Google links open a business-name map search, not a verified direct listing. The contact form remains demo-only and does not send or store requests. Call links use the supplied business number.
+Business details supplied by the user: Cypress Plumbing Services; building firm; 054 618 2307 (+233 54 618 2307); Google rating 5.0 from 1 review. The pasted opening status was "Open - Closes 5 am Thu". This is a time-dependent snapshot, not a weekly schedule; the site asks visitors to call to confirm hours. No address, service area or service list was supplied. Previous business details and its service catalogue have been removed. The six cards are clearly identified as enquiry topics, not confirmed services. The Google link is a business-name search, not a verified listing. The form remains demo-only and does not send or store requests. Call links use the supplied business number.
 
 ## Design and photo sources
 
